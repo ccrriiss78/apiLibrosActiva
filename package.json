@@ -1,13 +1,11 @@
 {
-  "name": "apilibros",
+  "name": "api-libros",
   "version": "1.0.0",
   "license": "ISC",
-  "author": "",
   "type": "module",
   "main": "server.js",
   "scripts": {
     "dev": "node --watch --env-file=.env src/server.js"
-  
   },
   "dependencies": {
     "express": "^5.2.1",
